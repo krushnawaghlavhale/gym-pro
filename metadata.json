@@ -1,0 +1,6 @@
+{
+  "name": "FitAI",
+  "description": "AI-powered personalized fitness and nutrition coaching platform with workout tracking, meal planning, progress analytics, and smart fitness assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
